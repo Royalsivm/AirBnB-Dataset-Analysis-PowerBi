@@ -31,6 +31,5 @@ https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
 
 ![Screenshot 2024-02-25 143358](https://github.com/Royalsivm/AirBnB-Dataset-Analysis-PowerBi/assets/153700930/c8973c56-44d8-49b7-8eae-97561ec8ada5)
 
-![Screenshot 2024-03-06 200737](https://github.com/shivamsharma32/AirBnB-Dataset-Analysis-PowerBi/assets/153700930/e653f60c-ea68-4d7c-b0dd-cf239d880cea)
 
 
